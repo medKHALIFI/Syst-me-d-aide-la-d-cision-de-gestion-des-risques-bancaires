@@ -1,0 +1,5 @@
+Larache (Sud-Ouest) 9 2783km2 472386hab 170hab/km2 doux
+Tetouan (Est) 25 6025km2 613506hab 205hab/km2 froid-sec
+Tanger-assilah (Nord) 12 891km2 762583hab 105hab/km2 froid-sec
+Fahs-anjra (Nord-Est) 8 799km2 97295hab 122hab/Km2 froid-sec
+Chefchaouen (Sud-Est) 27 3443km2 445819hab 129hab/km2 pluvieux-froid 
